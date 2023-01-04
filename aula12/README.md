@@ -1,0 +1,5 @@
+#Operador Spread
+
+*ESPALHAR*
+
+Spread -> ...
