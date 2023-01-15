@@ -1,3 +1,5 @@
+// ById => nome do ID
+
 const c1 = document.getElementById("c1")
 const c2=document.getElementById("c2")
 
